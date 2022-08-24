@@ -1,0 +1,8 @@
+{
+  "Name": "GetContextRenderTarget",
+  "Id": "719599b7-8348-45ac-8a14-059d01422d09",
+  "Namespace": "lib.3d.helper",
+  "Inputs": [],
+  "Children": [],
+  "Connections": []
+}

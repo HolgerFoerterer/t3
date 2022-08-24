@@ -1,0 +1,15 @@
+{
+  "Id": "719599b7-8348-45ac-8a14-059d01422d09"/*GetContextRenderTarget*/,
+  "Description": "",
+  "InputUis": [],
+  "SymbolChildUis": [],
+  "OutputUis": [
+    {
+      "OutputId": "400ebed1-3ea8-4dbc-b76e-59404d283452"/*Result*/,
+      "Position": {
+        "X": 133.0,
+        "Y": 138.0
+      }
+    }
+  ]
+}
